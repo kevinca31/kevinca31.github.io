@@ -1,3 +1,7 @@
 .languages {
-  font-weight: bold;
+	font-weight: bold;
+}
+
+#past {
+	font-size: 20;
 }
